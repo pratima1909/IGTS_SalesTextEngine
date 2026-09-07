@@ -1,0 +1,82 @@
+{"kind":"deck","id":"pr/wn3aev","name":"Deck"}
+{"kind":"layout","layoutId":"01852336-0c0a-441c-b6b6-3d9e403df522","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"cdedab10-8cde-4699-abe6-26a9bdfa29d4","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/kcgayl","slide":1,"title":"The engine runs locally—simple, fast and self-contained","textShapes":23}
+{"kind":"shape","id":"sh/zq9cvm54","slide":1,"name":"title-accent-1","bbox":[56,42,8,68]}
+{"kind":"textbox","id":"sh/0rit4rmp","slide":1,"name":"title-1","text":"The engine runs locally—simple, fast and self-contained","textPreview":"The engine runs locally—simple, fast and self-contained","textChars":55,"textLines":1,"bbox":[84,36,1120,56]}
+{"kind":"textbox","id":"sh/lsbuxcna","slide":1,"name":"subtitle-1","text":"A browser-first workflow searches existing sales text and produces an editable draft without an external AI service.","textPreview":"A browser-first workflow searches existing sales text and produces an editable draft without an external AI service.","textChars":116,"textLines":1,"bbox":[84,96,1110,35]}
+{"kind":"shape","id":"sh/q10byxon","slide":1,"name":"architecture-backbone","bbox":[114,286,1010,0.1]}
+{"kind":"shape","id":"sh/b29sr258","slide":1,"name":"support-rule","bbox":[56,581,1168,0.1]}
+{"kind":"shape","id":"sh/c3it076d","slide":1,"name":"stage-1","bbox":[56,214,250,126]}
+{"kind":"shape","id":"sh/doratcny","slide":1,"name":"stage-top-1","bbox":[56,214,250,8]}
+{"kind":"textbox","id":"sh/2xgbuxob","slide":1,"name":"stage-step-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[74,235,48,28]}
+{"kind":"textbox","id":"sh/3ypsn25w","slide":1,"name":"stage-label-1","text":"REQUEST","textPreview":"REQUEST","textChars":7,"textLines":1,"bbox":[126,236,155,24]}
+{"kind":"textbox","id":"sh/nuhs7yx0","slide":1,"name":"stage-title-1","text":"Keywords + facts","textPreview":"Keywords + facts","textChars":16,"textLines":1,"bbox":[74,274,215,48]}
+{"kind":"textbox","id":"sh/2t8retgv","slide":1,"name":"stage-body-1","text":"The requestor enters the item name, keywords and approved product facts.","textPreview":"The requestor enters the item name, keywords and approved product facts.","textChars":72,"textLines":1,"bbox":[56,374,250,102]}
+{"kind":"shape","id":"sh/pwja98f6","slide":1,"name":"stage-2","bbox":[355,214,250,126]}
+{"kind":"shape","id":"sh/ova9g3yl","slide":1,"name":"stage-top-2","bbox":[355,214,250,8]}
+{"kind":"textbox","id":"sh/by1sbixc","slide":1,"name":"stage-step-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[373,235,48,28]}
+{"kind":"textbox","id":"sh/axsridgr","slide":1,"name":"stage-label-2","text":"BROWSER APP","textPreview":"BROWSER APP","textChars":11,"textLines":1,"bbox":[425,236,155,24]}
+{"kind":"textbox","id":"sh/xkjad8fi","slide":1,"name":"stage-title-2","text":"Search + score","textPreview":"Search + score","textChars":14,"textLines":1,"bbox":[373,274,215,48]}
+{"kind":"textbox","id":"sh/cza9knyx","slide":1,"name":"stage-body-2","text":"HTML, CSS and vanilla JavaScript match terms and rank relevant records locally.","textPreview":"HTML, CSS and vanilla JavaScript match terms and rank relevant records locally.","textChars":79,"textLines":1,"bbox":[355,374,250,102]}
+{"kind":"shape","id":"sh/r2x8zeh8","slide":1,"name":"stage-3","bbox":[654,214,250,126]}
+{"kind":"shape","id":"sh/61or69gn","slide":1,"name":"stage-top-3","bbox":[654,214,250,8]}
+{"kind":"textbox","id":"sh/utg3ul47","slide":1,"name":"stage-step-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[672,235,48,28]}
+{"kind":"textbox","id":"sh/vup43qls","slide":1,"name":"stage-label-3","text":"CATALOGUE","textPreview":"CATALOGUE","textChars":9,"textLines":1,"bbox":[724,236,155,24]}
+{"kind":"textbox","id":"sh/gvylwvmd","slide":1,"name":"stage-title-3","text":"3,778 examples","textPreview":"3,778 examples","textChars":14,"textLines":1,"bbox":[672,274,215,48]}
+{"kind":"textbox","id":"sh/hw7m5g3y","slide":1,"name":"stage-body-3","text":"Excel data is packaged as local JS/JSON; the writer retrieves up to five similar texts.","textPreview":"Excel data is packaged as local JS/JSON; the writer retrieves up to five similar texts.","textChars":87,"textLines":1,"bbox":[654,374,250,102]}
+{"kind":"shape","id":"sh/65w3q14b","slide":1,"name":"stage-4","bbox":[953,214,250,126]}
+{"kind":"shape","id":"sh/7q54z6lw","slide":1,"name":"stage-top-4","bbox":[953,214,250,8]}
+{"kind":"textbox","id":"sh/8rylsbmh","slide":1,"name":"stage-step-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[971,235,48,28]}
+{"kind":"textbox","id":"sh/ts7m1g3m","slide":1,"name":"stage-label-4","text":"OUTPUT","textPreview":"OUTPUT","textChars":6,"textLines":1,"bbox":[1023,236,155,24]}
+{"kind":"textbox","id":"sh/y1w3m14z","slide":1,"name":"stage-title-4","text":"Editable short + long copy","textPreview":"Editable short + long copy","textChars":26,"textLines":1,"bbox":[971,274,215,48]}
+{"kind":"textbox","id":"sh/j25kv6lk","slide":1,"name":"stage-body-4","text":"Deterministic templates assemble a draft for human and claims review.","textPreview":"Deterministic templates assemble a draft for human and claims review.","textChars":69,"textLines":1,"bbox":[953,374,250,102]}
+{"kind":"textbox","id":"sh/1gb614n2","slide":1,"name":"local-layer-label","text":"LOCAL SUPPORT LAYER","textPreview":"LOCAL SUPPORT LAYER","textChars":19,"textLines":1,"bbox":[56,603,220,22]}
+{"kind":"textbox","id":"sh/0f2psz6h","slide":1,"name":"local-layer-main","text":"Optional Node.js built-in HTTP server","textPreview":"Optional Node.js built-in HTTP server","textChars":37,"textLines":1,"bbox":[288,597,360,34]}
+{"kind":"textbox","id":"sh/zutozu5c","slide":1,"name":"local-layer-boundaries","text":"No database   •   No cloud AI/API   •   No external data transfer","textPreview":"No database   •   No cloud AI/API   •   No external data transfer","textChars":65,"textLines":1,"bbox":[675,599,549,30]}
+{"kind":"textbox","id":"sh/etk7qpor","slide":1,"name":"footer-brand-1","text":"IGT SYSTEMS  /  SALES TEXT ENGINE","textPreview":"IGT SYSTEMS  /  SALES TEXT ENGINE","textChars":33,"textLines":1,"bbox":[56,673,420,20]}
+{"kind":"textbox","id":"sh/dsb6xkn6","slide":1,"name":"footer-number-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1180,670,44,20]}
+{"kind":"notes","id":"nt/kcgayl","slide":1,"text":"The current implementation is deliberately lightweight. Search, matching and guided drafting happen in the browser. The Node.js server only serves static files and is optional because index.html can be opened directly.\n\n[Sources]\n- Local project files: README.md, package.json, server.mjs, app.js, index.html and public/data/items-data.js (accessed August 2026).\n[/Sources]"}
+{"kind":"slide","id":"sl/bc50zm","slide":2,"title":"Lightweight today; governed integration enables Philips-wide use","textShapes":29}
+{"kind":"shape","id":"sh/rqd0vqls","slide":2,"name":"title-accent-2","bbox":[56,42,8,68]}
+{"kind":"textbox","id":"sh/srm14v2d","slide":2,"name":"title-2","text":"Lightweight today; governed integration enables Philips-wide use","textPreview":"Lightweight today; governed integration enables Philips-wide use","textChars":64,"textLines":1,"bbox":[84,36,1120,56]}
+{"kind":"textbox","id":"sh/tcvix03y","slide":2,"name":"subtitle-2","text":"The prototype can stay insourced while its hosting, source data and publishing controls mature in clear steps.","textPreview":"The prototype can stay insourced while its hosting, source data and publishing controls mature in clear steps.","textChars":110,"textLines":1,"bbox":[84,96,1110,35]}
+{"kind":"shape","id":"sh/ed4j65kj","slide":2,"name":"current-foundation","bbox":[56,176,402,405]}
+{"kind":"shape","id":"sh/fed0zql4","slide":2,"name":"current-accent","bbox":[56,176,402,10]}
+{"kind":"textbox","id":"sh/gf618v2p","slide":2,"name":"current-eyebrow","text":"CURRENT LOCAL FOUNDATION","textPreview":"CURRENT LOCAL FOUNDATION","textChars":24,"textLines":1,"bbox":[82,210,330,23]}
+{"kind":"textbox","id":"sh/1gfi103a","slide":2,"name":"current-headline","text":"Zero external dependencies","textPreview":"Zero external dependencies","textChars":26,"textLines":1,"bbox":[82,247,330,72]}
+{"kind":"textbox","id":"sh/ahkzu14f","slide":2,"name":"current-num-0","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[82,342,35,22]}
+{"kind":"textbox","id":"sh/vit0n6l0","slide":2,"name":"current-label-0","text":"Interface","textPreview":"Interface","textChars":9,"textLines":1,"bbox":[126,342,88,22]}
+{"kind":"textbox","id":"sh/zapoju9w","slide":2,"name":"current-value-0","text":"HTML5, CSS3, vanilla JavaScript","textPreview":"HTML5, CSS3, vanilla JavaScript","textChars":31,"textLines":1,"bbox":[220,342,192,38]}
+{"kind":"shape","id":"sh/ypgnq9sb","slide":2,"name":"current-separator-1","bbox":[82,386,330,0.1]}
+{"kind":"textbox","id":"sh/lc76l4r2","slide":2,"name":"current-num-1","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[82,396,35,22]}
+{"kind":"textbox","id":"sh/kby5szah","slide":2,"name":"current-label-1","text":"Serving","textPreview":"Serving","textChars":7,"textLines":1,"bbox":[126,396,88,22]}
+{"kind":"textbox","id":"sh/bm54fut0","slide":2,"name":"current-value-1","text":"Optional Node.js HTTP server","textPreview":"Optional Node.js HTTP server","textChars":28,"textLines":1,"bbox":[220,396,192,38]}
+{"kind":"shape","id":"sh/alwnmpsf","slide":2,"name":"current-separator-2","bbox":[82,440,330,0.1]}
+{"kind":"textbox","id":"sh/xo76h4r6","slide":2,"name":"current-num-2","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[82,450,35,22]}
+{"kind":"textbox","id":"sh/cne5ozal","slide":2,"name":"current-label-2","text":"Data","textPreview":"Data","textChars":4,"textLines":1,"bbox":[126,450,88,22]}
+{"kind":"textbox","id":"sh/ni54bato","slide":2,"name":"current-value-2","text":"Embedded JS/JSON catalogue; no database","textPreview":"Embedded JS/JSON catalogue; no database","textChars":39,"textLines":1,"bbox":[220,450,192,38]}
+{"kind":"shape","id":"sh/2hwnipsj","slide":2,"name":"current-separator-3","bbox":[82,494,330,0.1]}
+{"kind":"textbox","id":"sh/qdc7u5cb","slide":2,"name":"current-num-3","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[82,504,35,22]}
+{"kind":"textbox","id":"sh/relo3adw","slide":2,"name":"current-label-3","text":"Writing","textPreview":"Writing","textChars":7,"textLines":1,"bbox":[126,504,88,22]}
+{"kind":"textbox","id":"sh/sfupwfuh","slide":2,"name":"current-value-3","text":"Rule- and template-based; not an LLM","textPreview":"Rule- and template-based; not an LLM","textChars":36,"textLines":1,"bbox":[220,504,192,38]}
+{"kind":"textbox","id":"sh/dgn65kvm","slide":2,"name":"path-eyebrow","text":"PATH TO ENTERPRISE USE","textPreview":"PATH TO ENTERPRISE USE","textChars":22,"textLines":1,"bbox":[510,176,250,23]}
+{"kind":"shape","id":"sh/ehw7ypc7","slide":2,"name":"enterprise-spine","bbox":[540,243,0.1,282]}
+{"kind":"shape","id":"sh/fi5o7uds","slide":2,"name":"enterprise-marker-0","bbox":[519,228,42,42]}
+{"kind":"textbox","id":"sh/0jep0zud","slide":2,"name":"enterprise-num-0","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[519,234,42,26]}
+{"kind":"textbox","id":"sh/1kn694vy","slide":2,"name":"enterprise-title-0","text":"Host securely","textPreview":"Host securely","textChars":13,"textLines":1,"bbox":[592,220,280,36]}
+{"kind":"textbox","id":"sh/2lw72pcj","slide":2,"name":"enterprise-body-0","text":"Deploy on a Philips-managed internal platform with SSO, role-based access and operational support.","textPreview":"Deploy on a Philips-managed internal platform with SSO, role-based access and operational support.","textChars":98,"textLines":1,"bbox":[592,262,600,60]}
+{"kind":"shape","id":"sh/nm5obud4","slide":2,"name":"enterprise-marker-1","bbox":[519,348,42,42]}
+{"kind":"textbox","id":"sh/xgrq1of6","slide":2,"name":"enterprise-num-1","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[519,354,42,26]}
+{"kind":"textbox","id":"sh/cfy9s3el","slide":2,"name":"enterprise-title-1","text":"Connect source systems","textPreview":"Connect source systems","textChars":22,"textLines":1,"bbox":[592,340,280,36]}
+{"kind":"textbox","id":"sh/bep8zyx0","slide":2,"name":"enterprise-body-1","text":"Establish controlled refreshes and metadata mapping for Windchill, Philips Product Library and quoting tools.","textPreview":"Establish controlled refreshes and metadata mapping for Windchill, Philips Product Library and quoting tools.","textChars":109,"textLines":1,"bbox":[592,382,600,60]}
+{"kind":"shape","id":"sh/adgrqtwf","slide":2,"name":"enterprise-marker-2","bbox":[519,468,42,42]}
+{"kind":"textbox","id":"sh/l4ra58f2","slide":2,"name":"enterprise-num-2","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[519,474,42,26]}
+{"kind":"textbox","id":"sh/k3i9w3eh","slide":2,"name":"enterprise-title-2","text":"Control publishing","textPreview":"Control publishing","textChars":18,"textLines":1,"bbox":[592,460,280,36]}
+{"kind":"textbox","id":"sh/zi9s3yxc","slide":2,"name":"enterprise-body-2","text":"Add ownership, audit trail, review/approval and governed write-back before text becomes customer-facing.","textPreview":"Add ownership, audit trail, review/approval and governed write-back before text becomes customer-facing.","textChars":104,"textLines":1,"bbox":[592,502,600,60]}
+{"kind":"shape","id":"sh/yh0rutwr","slide":2,"name":"ai-guardrail","bbox":[510,592,714,56]}
+{"kind":"shape","id":"sh/98ba98fe","slide":2,"name":"ai-guardrail-accent","bbox":[510,592,8,56]}
+{"kind":"textbox","id":"sh/87290net","slide":2,"name":"ai-guardrail-text","text":"An LLM is optional—not required today. If added later, use only Philips-approved AI services, product evidence and guardrails.","textPreview":"An LLM is optional—not required today. If added later, use only Philips-approved AI services, product evidence and guardrails.","textChars":126,"textLines":1,"bbox":[538,605,658,36]}
+{"kind":"textbox","id":"sh/43mtsry1","slide":2,"name":"footer-brand-2","text":"IGT SYSTEMS  /  SALES TEXT ENGINE","textPreview":"IGT SYSTEMS  /  SALES TEXT ENGINE","textChars":33,"textLines":1,"bbox":[56,673,420,20]}
+{"kind":"textbox","id":"sh/54vu1czm","slide":2,"name":"footer-number-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1180,670,44,20]}
+{"kind":"notes","id":"nt/bc50zm","slide":2,"text":"The right-hand sequence describes a target path, not capabilities already implemented. The current guided editor remains local and deterministic. A future LLM can be evaluated separately once data access, approved services, human review and claims governance are defined.\n\n[Sources]\n- Local IGT Systems Sales Text Engine project files (accessed August 2026).\n- User-provided scope: insourced use; Windchill; Philips Product Library; quoting tools.\n[/Sources]"}
